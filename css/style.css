@@ -1,0 +1,32 @@
+.navbar-img{
+    width: 140px;
+    height: 35px;
+}
+.carouser-jumbotron1 {
+    color:blue;
+    font-size: 35px;
+    float:left;
+    margin-left:-7rem;
+    margin-bottom: 7rem;
+  }
+.row-img{padding-top: 30px; width: 250px; }
+.row-bg{ 
+    background: black;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.paddT{ padding-Top:20px;}
+.paddB{ padding-bottom: 30px;}
+.paddL{padding-left:40px;}
+.text-dv{  color: #FFF; padding-top:20px; text-align: justify; }
+.center{ text-align: center;}
+.card-center h5{ padding-top: 10px;}
+.gallery { border: 1px solid #ccc;}
+.gallery:hover {border: 1px solid #777;}
+.gallery img {
+    width: 100%;
+    height: auto;
+  }
+ .marginA{margin-left: 240px; margin-top:20px; padding:10px 15px 10px 15px !important; }
+ .bg-footer{background: #363B9E ;}
+ 
